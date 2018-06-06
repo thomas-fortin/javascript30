@@ -10,8 +10,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 This is my participation to the Javascript30 challenge.
 
-To see what I made myself, go on index-START.html on each exercise.
-The recommended solution is in the index-FINISHED.html.
+To see what I did myself, go on index.html on each exercise.
+The start file is in the index-START.html and the recommended solution is in the index-FINISHED.html.
 
 Precision: I don't look ANY recommended solution I prefer to do the exercises on my own, following the given courses.
 
