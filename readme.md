@@ -8,18 +8,23 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Short description
 
-This is my participation to the Javascript30 challenge.
+This is my participation to the JavaScript30 challenge.
 
-To see what I did myself, go on index.html on each exercise.
-The start file is in the index-START.html and the recommended solution is in the index-FINISHED.html.
+The given start file is **index-START.html** and the recommended solution is **index-FINISHED.html**.
+To see what I did myself, go on **index.html** on each exercise.
 
-Precision: I don't look ANY recommended solution I prefer to do the exercises on my own, following the given courses.
+> **Precision 1 :** I don't look at ANY recommended solution I prefer to do the exercises on my own, following the given courses.
+
+> **Precision 2 :** Started the 07 June 2018.
 
 ## Table Of Contents
 
-### TODO:
+### DONE:
 
 1.  [JavaScript Drum Kit](/01%20-%20JavaScript%20Drum%20Kit)
+
+### TODO:
+
 2.  [JS + CSS Clock](/02%20-%20JS%20%2B%20CSS%20Clock)
 3.  [CSS Variables](/03%20-%20CSS%20Variables)
 4.  [Array Cardio, Day 1](/04%20-%20Array%20Cardio%20Day%201/)
