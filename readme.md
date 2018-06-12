@@ -26,10 +26,10 @@ To see what I did myself, go on **index.html** on each exercise.
 3.  [CSS Variables](/03%20-%20CSS%20Variables)
 4.  [Array Cardio, Day 1](/04%20-%20Array%20Cardio%20Day%201/)
 5.  [Flex Panel Gallery](/05%20-%20Flex%20Panel%20Gallery/)
+6.  [Type Ahead](/06%20-%20Type%20Ahead/)
 
 ### TODO:
 
-6.  [Type Ahead](/06%20-%20Type%20Ahead/)
 7.  [Array Cardio, Day 2](/07%20-%20Array%20Cardio%20Day%202/)
 8.  [Fun with HTML5 Canvas](/08%20-%20Fun%20with%20HTML5%20Canvas/)
 9.  [Dev Tools Domination](/09%20-%20DevTools%20Domination/)
