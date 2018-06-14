@@ -11,7 +11,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 This is my participation to the JavaScript30 challenge.
 
 The given start file is **index-START.html** and the recommended solution is **index-FINISHED.html**.
-To see what I did myself, go on **index.html** on each exercise.
+To see what I did myself, go on **index.html** on each exercise (except for exercises 11, 19 & 29 where my work is on **scripts.js**).
 
 > **Precision 1 :** I don't look at ANY recommended solution I prefer to do the exercises on my own, following the given courses.
 
@@ -28,10 +28,10 @@ To see what I did myself, go on **index.html** on each exercise.
 5.  [Flex Panel Gallery](/05%20-%20Flex%20Panel%20Gallery/)
 6.  [Type Ahead](/06%20-%20Type%20Ahead/)
 7.  [Array Cardio, Day 2](/07%20-%20Array%20Cardio%20Day%202/)
+8.  [Fun with HTML5 Canvas](/08%20-%20Fun%20with%20HTML5%20Canvas/)
 
 ### TODO:
 
-8.  [Fun with HTML5 Canvas](/08%20-%20Fun%20with%20HTML5%20Canvas/)
 9.  [Dev Tools Domination](/09%20-%20DevTools%20Domination/)
 10. [Hold Shift and Check Checkboxes](/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
 11. [Custom Video Player](/11%20-%20Custom%20Video%20Player/)
