@@ -36,10 +36,10 @@ To see what I did myself, go on **index.html** on each exercise (except for exer
 13. [Slide in on Scroll](/13%20-%20Slide%20in%20on%20Scroll/)
 14. [JavaScript References vs. Copying](/14%20-%20JavaScript%20References%20VS%20Copying)
 15. [LocalStorage](/15%20-%20LocalStorage/)
+16. [Mouse Move Shadow](/16%20-%20Mouse%20Move%20Shadow/)
 
 ### TODO:
 
-16. [Mouse Move Shadow](/16%20-%20Mouse%20Move%20Shadow/)
 17. [Sort Without Articles](/17%20-%20Sort%20Without%20Articles/)
 18. [Adding Up Times with Reduce](/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 19. [Webcam Fun](/19%20-%20Webcam%20Fun/)
