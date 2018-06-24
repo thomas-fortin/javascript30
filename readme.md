@@ -38,10 +38,10 @@ To see what I did myself, go on **index.html** on each exercise (except for exer
 15. [LocalStorage](/15%20-%20LocalStorage/)
 16. [Mouse Move Shadow](/16%20-%20Mouse%20Move%20Shadow/)
 17. [Sort Without Articles](/17%20-%20Sort%20Without%20Articles/)
+18. [Adding Up Times with Reduce](/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 
 ### TODO:
 
-18. [Adding Up Times with Reduce](/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 19. [Webcam Fun](/19%20-%20Webcam%20Fun/)
 20. [Speech Detection](/20%20-%20Speech%20Detection/)
 21. [Geolocation](/21%20-%20Geolocation/)
