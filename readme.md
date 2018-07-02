@@ -47,10 +47,10 @@ To see what I did myself, go on **index.html** on each exercise (except for exer
 24. [Sticky Nav](/24%20-%20Sticky%20Nav/)
 25. [Event Capture, Propagation, Bubbling, and Once](/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/)
 26. [Stripe Follow Along Nav](/26%20-%20Stripe%20Follow%20Along%20Nav/)
+27. [Click and Drag](/27%20-%20Click%20and%20Drag/)
 
 ### TODO:
 
-27. [Click and Drag](/27%20-%20Click%20and%20Drag/)
 28. [Video Speed Controller](/28%20-%20Video%20Speed%20Controller/)
 29. [Countdown Timer](/29%20-%20Countdown%20Timer/)
 30. [Whack A Mole](/30%20-%20Whack%20A%20Mole/)
