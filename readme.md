@@ -50,7 +50,6 @@ To see what I did myself, go on **index.html** on each exercise (except for exer
 27. [Click and Drag](/27%20-%20Click%20and%20Drag/)
 28. [Video Speed Controller](/28%20-%20Video%20Speed%20Controller/)
 29. [Countdown Timer](/29%20-%20Countdown%20Timer/)
+30. [Whack A Mole](/30%20-%20Whack%20A%20Mole/)
 
 ### TODO:
-
-30. [Whack A Mole](/30%20-%20Whack%20A%20Mole/)
